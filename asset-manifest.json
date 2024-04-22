@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blog.github.io/static/css/main.84d731b1.css",
+    "main.js": "/blog.github.io/static/js/main.cad07620.js",
+    "index.html": "/blog.github.io/index.html",
+    "main.84d731b1.css.map": "/blog.github.io/static/css/main.84d731b1.css.map",
+    "main.cad07620.js.map": "/blog.github.io/static/js/main.cad07620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84d731b1.css",
+    "static/js/main.cad07620.js"
+  ]
+}
